@@ -11,7 +11,9 @@ header{
 }
 /*pai*/
 #menu-lateral{
-width: 159px;
+    background-color: aqua;
+    padding-left: 10px;
+    width: 159px;
 }
 /*filho*/
 /*
@@ -36,8 +38,11 @@ nav ul li a {
     font-size: 11px;
 }
 #comandos{
-   
+    
     background-color: rgb(43, 226, 180);
-  
-   
+    
+}footer #rodape{
+   background-color: #000000;
+   color: aliceblue;
+    text-align: center;
 }
