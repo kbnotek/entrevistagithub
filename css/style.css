@@ -11,7 +11,7 @@ header{
 }
 /*pai*/
 #menu-lateral{
-    background-color: aqua;
+    
     padding-left: 10px;
     width: 159px;
 }
@@ -26,12 +26,20 @@ header{
     
 }*//*bisneto*/
  nav ul li{
+    
     list-style: none;
     text-transform: uppercase;
 }/*tataraneto*/
 nav ul li a {
  
     text-decoration: none;
+    color: #f64d27;
+}
+nav ul li a:hover{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+
 }
 #menu-lateral nav ul li{
     padding-top: 9px;   
@@ -45,4 +53,8 @@ nav ul li a {
    background-color: #000000;
    color: aliceblue;
     text-align: center;
+}
+#area-principal{
+    width: 565px;
+    border:  2px solid red;
 }
