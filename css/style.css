@@ -8,12 +8,36 @@ header{
     text-align:center;
     padding-top: 5px;
   
-}#menu-lateral nav ul li{
-    padding-top: 5px;
+}
+/*pai*/
+#menu-lateral{
+width: 159px;
+}
+/*filho*/
+/*
+ nav{
+    background-color: #000000;
     
+}*//*neto*/
+ /*nav ul{
+    background-color: blue;
+    
+}*//*bisneto*/
+ nav ul li{
+    list-style: none;
+    text-transform: uppercase;
+}/*tataraneto*/
+nav ul li a {
+ 
+    text-decoration: none;
+}
+#menu-lateral nav ul li{
+    padding-top: 9px;   
+    font-size: 11px;
 }
 #comandos{
    
     background-color: rgb(43, 226, 180);
   
+   
 }
