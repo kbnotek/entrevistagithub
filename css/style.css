@@ -99,4 +99,118 @@ nav ul li a:hover{
     font-size: 18px;
     font-family: 'Times New Roman', Times, serif;
     color: rgb(255, 0, 191);
+}.paragrafo-tres{
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}.paragrafo-quatro{
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #f80000;
+    
+}.paragrafo-cinco{
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #4f06fa;
+    
+}.paragrafo-seis{
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #0af0f8;
+    
+}.paragrafo-sete{
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #9eaa35;
+    
+}.paragrafo-oito{
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #0bcc4b;
+    
+}.paragrafo-nove{
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #5a0541;
+    
+}.paragrafo-dez{
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #73bdfa;
+    
+}.paragrafo-onze{
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #504c4b;
+    
+}.paragrafo-doze{
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #811e08;
+    
+}.paragrafo-treze{
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #350d04;
+    
+}.paragrafo-quatoze{
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #0d5210;
+    
+}.paragrafo-quinze{
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #3d0747;
+    
+}.paragrafo-dezeseis{
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #00c569;
+    
+}.paragrafo-dezesete{
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #300726;
+    
+}.paragrafo-dezoito{
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #8d080860;
+    
+}.paragrafo-dezenove{
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #535c09;
+    
+}.paragrafo-vinte{
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #d67fb2;
+    
+}.paragrafo-vinteum{
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #d35450;
+    
+}.paragrafo-vintedois{
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #6b701c;
+    
+}.paragrafo-vintetres{
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #6b0abb;
+    
+}footer #rodape-a{
+    background: rgb(0,0,0);
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(56,13,13,1) 47%, rgba(255,0,0,1) 100%);
+   color: aliceblue;
+    text-align: center;
+    font-size: 12px;
+    height: 25px;
+    margin-top: 1567px;
+    
+    
 }
