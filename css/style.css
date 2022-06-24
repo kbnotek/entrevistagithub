@@ -74,3 +74,29 @@ nav ul li a:hover{
     margin-left: 150px;
    
 }
+.postit-laranja{
+   
+    border: 2px solid orange;    
+
+} 
+#draggable {
+    width: 75px;
+    height: 75px;    
+    color: black;
+    border: 2px solid rgb(17, 17, 17);
+}
+.paragrafo-um{
+    font-size: 12px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+.paragrafo-dois{
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #f64d27;
+}
+.paragrafo-tres{
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(255, 0, 191);
+}
